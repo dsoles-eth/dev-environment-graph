@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "dev-environment-graph"
+version = "0.1.0"
+description = "A CLI tool that maps and visualizes local development services, ports, and interdependencies in real-time."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+keywords = ["python", "click", "networkx", "graphviz"]
+dependencies = ["click", "graphviz", "networkx"]
+
+[project.urls]
+Homepage = "https://github.com/{GITHUB_USERNAME}/dev-environment-graph"
