@@ -97,6 +97,6 @@ The project is modular, allowing components to be reused or extended. It is buil
 Contributions are welcome! Please follow these steps to get started:
 
 1.  Fork the repository on GitHub.
-2.  Clone your fork: `git clone https://github.com/your-username/dev-environment-graph.git`
+2.  Clone your fork: `git clone https://github.com/dsoles-eth/dev-environment-graph.git`
 3.  Create a feature branch: `git checkout -b feature/your-feature-name`
 4
